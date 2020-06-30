@@ -1,2 +1,2 @@
 # DjangoBlog
-Creating a Blog application using Django and MySQL.
+Creating a Blog application using Django and SQLite.
