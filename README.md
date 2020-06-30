@@ -1,2 +1,2 @@
 # DjangoBlog
-First Django Website following Corey Schafers Youtube Guide
+Creating a Blog application using Django and MySQL.
